@@ -18,5 +18,6 @@ class Venue
   end
 
   def over_capacity?
+    false
   end
 end
