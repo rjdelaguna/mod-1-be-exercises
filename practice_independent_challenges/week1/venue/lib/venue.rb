@@ -16,4 +16,7 @@ class Venue
       patron.upcase
     end
   end
+
+  def over_capacity?
+  end
 end
