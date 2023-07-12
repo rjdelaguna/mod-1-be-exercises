@@ -24,4 +24,7 @@ class Venue
       false
     end
   end
+
+  def kick_out
+  end
 end
